@@ -12,12 +12,12 @@
 
 На момент написания этой инструкции VirtualBox для процессоров Apple M1/M2 находится в Developer Preview (предварительная версия для разработчиков). По отзывам многих данная версия по факту не работает. Это может измениться с выходом более новых версий.
 
-Если на момент установки VirtualBox не работает на вашем компьютере, вы можете воспользоваться альтернативами такими как:
-•	[UTM](https://mac.getutm.app/)(бесплатная)
-•	[Parallels](https://www.parallels.com/products/desktop/) (платная)
-•	[VMware Fusion 13](https://www.vmware.com/products/fusion/fusion-evaluation.html) (есть бесплатная версия, требует регистрации)
+Если на момент установки VirtualBox не работает на вашем компьютере, вы можете воспользоваться альтернативами такими как:  
+•	[UTM](https://mac.getutm.app/)(бесплатная)   
+•	[Parallels](https://www.parallels.com/products/desktop/) (платная)  
+•	[VMware Fusion 13](https://www.vmware.com/products/fusion/fusion-evaluation.html) (есть бесплатная версия, требует регистрации)  
 
-Пример установки UTM используя пакетный менеджер Homebrew:
+Пример установки UTM используя пакетный менеджер Homebrew:  
 
 `brew install --cask utm`
 
