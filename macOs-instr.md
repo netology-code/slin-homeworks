@@ -1,6 +1,6 @@
 ## Установка VirtualBox на операционные системы, отличные от Windows
 
-Вы можете установить VirtualBox на такие операционные системы как macOS, дистрибутивы Linux и некоторые другие. Установочные файлы и инструкции можно найти на [официальном сайте VirtualBox](https://www.virtualbox.org/wiki/Downloads) компании Oracle.
+Вы можете установить VirtualBox на такие операционные системы как macOS, Linux и некоторые другие. Установочные файлы и инструкции можно найти на [официальном сайте VirtualBox](https://www.virtualbox.org/wiki/Downloads) компании Oracle.
 
 ### Установка на macOS
 
