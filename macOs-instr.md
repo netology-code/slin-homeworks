@@ -26,4 +26,4 @@
 
 ### Установка на Linux
 
-Для установки VirtualBox на ваш дистрибутив Linux воспользуйтесь [инструкцией с официального сайта Virtual Box](https://www.virtualbox.org/wiki/Linux_Downloads).
+Для установки VirtualBox на ваш дистрибутив Linux воспользуйтесь [инструкцией с официального сайта VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads).
